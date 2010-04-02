@@ -5,6 +5,7 @@ gem 'haml'
 gem 'resource_controller'
 gem 'mysql'
 gem 'morph'
+gem 'fastercsv'
 gem 'compass'
 gem 'compass-susy-plugin'
 
